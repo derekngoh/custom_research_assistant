@@ -51,9 +51,9 @@ custom_research_assistant/
 ```
 3. **Create environment file for API key**:
 ```bash
-    touch backend/.env
+    touch .env
 ```
-**Then add:**
+    **Then add:**
 ```
     OPENAI_API_KEY=your_openai_api_key_here
 ```
